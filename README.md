@@ -1,7 +1,5 @@
-# (QoL improvements for) TorToiSe
-
-This repo is for my modifications to [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts). If you need the original README, refer to the original repo.
-
-\> w-where'd everything go?
-
-Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-cloning), as that repo is the more cohesive package for voice cloning.
+XttSv2 - TorToiSe
+Related. Xttsv2 is a child of tortoise in a sense
+Tortoise had an ability to prompt engineer audio 
+Xttsv2 lost this ability somewhere
+why
